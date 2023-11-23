@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.todo-container {
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+.todo-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #dee2e6;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.todo-item input {
+    margin-right: 10px;
+}
